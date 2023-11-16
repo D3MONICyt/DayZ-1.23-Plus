@@ -1,0 +1,5 @@
+
+
+[2023-11-13 11:44:11] Client version: no bootstrapper found
+[2023-11-13 11:44:11] Failed to read store 'install' from 'C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\config\config.vdf.tmp'
+[2023-11-13 11:44:13] Flushed store 'install' to 'C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\config\config.vdf'

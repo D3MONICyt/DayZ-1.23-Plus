@@ -1,0 +1,49 @@
+"AppState"
+{
+	"appid"		"223350"
+	"Universe"		"1"
+	"name"		"DayZ Server"
+	"StateFlags"		"4"
+	"installdir"		"DayZServer"
+	"LastUpdated"		"1699370156"
+	"SizeOnDisk"		"2926464604"
+	"StagingSize"		"0"
+	"buildid"		"12592921"
+	"LastOwner"		"76561198064199694"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"BytesToStage"		"0"
+	"BytesStaged"		"0"
+	"TargetBuildID"		"12592921"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"FullValidateBeforeNextUpdate"		"1"
+	"FullValidateAfterNextUpdate"		"1"
+	"InstalledDepots"
+	{
+		"223351"
+		{
+			"manifest"		"5379784495517509546"
+			"size"		"2886448228"
+		}
+		"223353"
+		{
+			"manifest"		"3777161015363036036"
+			"size"		"40016376"
+		}
+	}
+	"SharedDepots"
+	{
+		"228985"		"228980"
+		"228988"		"228980"
+		"229004"		"228980"
+	}
+	"UserConfig"
+	{
+	}
+	"MountedConfig"
+	{
+	}
+}

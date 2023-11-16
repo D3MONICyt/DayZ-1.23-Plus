@@ -1,0 +1,291 @@
+﻿11:44:10 BattlEye Server: Initialized (v1.219, DayZ 1.23.156951)
+11:44:11 SUCCESS: SteamGameServer_Init(55be9f57,20005,20000,20001,3,1.23.156951)
+11:44:12 BattlEye Server: Config entry: RConIP 85.190.159.87
+11:44:12 BattlEye Server: Config entry: RConPort 20003
+11:44:12 BattlEye Server: Config entry: RConPassword Gk4g02iL
+11:44:12 BattlEye Server: Config entry: RestrictRCon 0
+11:44:12 Roles assigned.
+11:44:12 Reading mission ...
+11:44:30 [CE][Hive] :: Initializing OFFLINE
+11:44:30 [StorageDirs] :: Selected storage directory: C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\
+11:44:30 [CE][Hive] :: Loading core data ... 
+11:44:30 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+11:44:30 [CE][offlineDB] :: Conversion of characters started.
+11:44:30 [CE][offlineDB] :: Processing 0 players.
+11:44:30 [CE][offlineDB] :: Conversion of characters successfully completed.
+11:44:35 [CE][TypeSetup] :: 525 classes setuped...
+11:44:35 [CE][RegisterBind] :: 0 classes binded...
+11:44:35 [CE][RegisterConfig] :: 4979 config classes registered, 0 sub-counters...
+11:44:35 [CE][Hive] :: Loading map data ... 
+11:44:35 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+11:44:35 [CE][LoadPrototype] :: loaded 426 prototypes
+11:44:35   822 containers, 10869 points
+11:44:35   71 dispatches, 250 proxies
+11:44:35 !!! [CE][LoadPrototype] 5 groups have no points...
+11:44:35 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
+11:44:35 [CE][LoadPrototype] :: loaded 0 prototypes
+11:44:35   55 containers, 232 points
+11:44:35   0 dispatches, 0 proxies
+11:44:35 [CE][LoadPrototype] :: last group name: Rail9...
+11:44:37 [CE][LoadMap] "Group" :: loaded 11680 groups, groups failed: 0, largest group range: 34.2
+11:44:37 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+11:44:37 [CE][LoadClusters] "Cluster" :: Loading files...
+11:44:38 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+11:44:38 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+11:44:38 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+11:44:38 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+11:44:38 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17347 instances
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+11:44:38 !!! [CE][offlineDB] :: No Shutdown message present.
+11:44:38 [CE][offlineDB] :: Loaded 48 dynamic events 228 total types.
+11:44:38 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+11:44:38 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Black' will be ignored. (Type does not exist. (Typo?))
+11:44:38 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Brown' will be ignored. (Type does not exist. (Typo?))
+11:44:38 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Red' will be ignored. (Type does not exist. (Typo?))
+11:44:38 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+11:44:38 [CE][DE][SPAWNS] :: Total positions: 966
+11:44:38 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 83
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.002"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.001"
+11:44:38 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni6821433_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.002"
+11:44:38 [CE][Hive] :: Empty storage folder, reinitializing ... 
+11:44:39 [CE][Hive] :: Initializing ... 
+11:44:39 [CE][InitializeMap] :: initialized: 0
+11:44:39 [CE][Hive] :: Initializing spawners ... 
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "PrisonerCap"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "PrisonerCap"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "CivSedanTrunk_WineRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "CivSedanTrunk_WineRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "CivSedanTrunk_WineRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "CivSedanTrunk_WineRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "CivSedanTrunk_WineRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "CivSedanTrunk_WineRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "CivSedanTrunk_WineRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "CivSedanTrunk_WineRust"
+11:44:40 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "CivSedanTrunk_WineRust"
+11:44:42 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "ParamedicPants_Green"
+11:44:43 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "HunterPants_Spring"
+11:44:43 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "NurseDress_Blue"
+11:44:43 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "NurseDress_Blue"
+11:44:43 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "NurseDress_Blue"
+11:44:43 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "AKS74U"
+11:44:43 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "Mp133Shotgun"
+11:44:43 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "Mp133Shotgun"
+11:44:44 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "SlacksPants_Beige"
+11:44:44 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "SlacksPants_Beige"
+11:44:44 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "SlacksPants_Beige"
+11:44:44 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "SlacksPants_Beige"
+11:44:44 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "FieldShovel"
+11:44:44 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "FieldShovel"
+11:44:44 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "ChildBag_Red"
+11:44:44 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "ChildBag_Red"
+11:44:44 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "ChildBag_Red"
+11:44:44 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "ChildBag_Red"
+11:44:44 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "PersonalRadio"
+11:44:44 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "PersonalRadio"
+11:44:47 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:20946, Nominal:20952, Total in Map: 19944 at 6 (sec)
+11:44:47   tests:21506, repeats:69 fails:491, overtime:1070
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 5, deloot: 2, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (5 > 4)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 5, deloot: 2, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (5 > 4)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 4, deloot: 2, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 5, deloot: 2, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:44:47 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (5 > 4)
+11:44:47 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+11:44:47 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 13, deloot: 2, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_V3S_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP1_NoPlacement_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BRDM_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_T72_Chassis_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP1_NoPlacement_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BRDM_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban1_red_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban1_orange_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_white_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_Ikarus_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_Ikarus_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban1_orange_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban2_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_Ikarus_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_Ikarus_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban1_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban2_yellow_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Red_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Wreck_truck01_aban2_blue_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Bo_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Train_Wagon_Flat_Industrial_Planks_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Bo_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Red_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 3
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_T72_Chassis_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 4
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Red_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Train_Wagon_Flat_Industrial_Planks_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Bo_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+11:44:47 [CE][DynEvent] :: 48 types
+11:44:47 [00] AmbientHen
+11:44:47   Primary Spawner: "Ambient", active: yes, repeat: 1
+11:44:47 [01] AnimalBear
+11:44:47   Primary Spawner: "Animal", active: yes, repeat: 1
+11:44:47 [02] AnimalCow
+11:44:47   Primary Spawner: "Animal", active: yes, repeat: 1
+11:44:47 [03] AnimalDeer
+11:44:47   Primary Spawner: "Animal", active: yes, repeat: 1
+11:44:47 [04] AnimalGoat
+11:44:47   Primary Spawner: "Animal", active: yes, repeat: 1
+11:44:47 [05] AnimalPig
+11:44:47   Primary Spawner: "Animal", active: yes, repeat: 1
+11:44:47 [06] AnimalRoeDeer
+11:44:47   Primary Spawner: "Animal", active: yes, repeat: 1
+11:44:47 [07] AnimalSheep
+11:44:47   Primary Spawner: "Animal", active: yes, repeat: 1
+11:44:47 [08] AnimalWildBoar
+11:44:47   Primary Spawner: "Animal", active: yes, repeat: 1
+11:44:47 [09] AnimalWolf
+11:44:47   Primary Spawner: "Animal", active: yes, repeat: 1
+11:44:47 [10] InfectedArmy
+11:44:47   Pr

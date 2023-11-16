@@ -1,0 +1,5 @@
+
+
+[2023-11-13 11:44:11] Client version: no bootstrapper found
+[2023-11-13 11:44:11] Initializing System Manager
+[2023-11-13 11:44:11] Skipping CSystemManager Init because we are in a game process

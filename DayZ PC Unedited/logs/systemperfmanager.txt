@@ -1,0 +1,6 @@
+
+
+[2023-11-13 11:44:11] Client version: no bootstrapper found
+[2023-11-13 11:44:11] CSystemPerfManager::UpdateCurrentGame: setting current gameid: 769
+[2023-11-13 11:44:11] CSystemPerfManager::MaybeUpdateActiveGame: loading profile for gameid: 769
+[2023-11-13 11:44:11] Initialized system perf manager
